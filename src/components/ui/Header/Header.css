@@ -1,0 +1,17 @@
+header .screen__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 0;
+}
+
+header img {
+  width: 6rem;
+}
+
+header ul {
+  font-family: "Raleway", sans-serif;
+  display: flex;
+  font-size: 0.85rem;
+  gap: 1.5rem;
+}
